@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://byjay.github.io/essay/일주일에-책-한권-읽자/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/2020-09-16-데이터-중심-어플리케이션-설계-갈무리/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://byjay.github.io/review/2020년-12월의-긴-휴가/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/2020-2021/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://byjay.github.io/review/2020년-12월의-긴-휴가/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/antifragile/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/가격은-오르고-내린다/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/건강한-밥을-먹자/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -30,20 +30,20 @@
 <url> <loc>https://byjay.github.io/review/예외처리/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/우울함을-대처하는-흔한-방법/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/정리는-곧-선택이다/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://byjay.github.io/review/친절한-금융-입문서적/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/철학은-삶의-무기가-된다/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://byjay.github.io/review/친절한-금융-입문서적/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/타이탄의-도구들을-읽고/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://byjay.github.io/review/피카소와-프로그래머/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/편하게-해-편하게/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://byjay.github.io/review/피카소와-프로그래머/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/헌신할-수-있는-만큼만/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/휴머니즘/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://byjay.github.io/wiki/2020-04-27-채권/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/wiki/2020-04-05-내가-겪었던-인코딩-이야기/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://byjay.github.io/wiki/2020-04-27-채권/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/wiki/2020-10-01-2018년-도서-구매내역/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/wiki/2020-10-01-2019년-도서-구매내역/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/wiki/2020-10-01-2020년-도서-목록/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://byjay.github.io/review/programming/2018-02-25-http-cache/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/programming/2016-08-18-clean-coder/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://byjay.github.io/review/programming/2018-02-25-http-cache/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/programming/2018-06-23-head-fisrt-design-pattern/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/programming/2018-07-22-clean-code/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/programming/2018-09-06-tdd/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -56,8 +56,8 @@
 <url> <loc>https://byjay.github.io/review/book/2016/2016-04-01-book-two-cultures/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/book/2016/2016-04-02-book-the-structure-of scientific-revolutions/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/book/2016/2016-04-15-book-yon-jang-tong/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://byjay.github.io/review/book/2016/2016-06-12-book-gatsby/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/book/2016/2016-05-26-book-linux/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://byjay.github.io/review/book/2016/2016-06-12-book-gatsby/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/book/2016/2016-06-12-book-jang-ha-jun-eco/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/book/2016/2016-07-22-hackers_and_painters/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/book/2016/2016-10-23-book-catcher/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -125,9 +125,9 @@
 <url> <loc>https://byjay.github.io/review/movie/2017/2016-05-14-movie-The Lives of Others/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/movie/2017/2016-05-23-movie-contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/movie/2017/2017-03-29-money-ball/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://byjay.github.io/review/book/2018/2018-05-20-the-remains/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://byjay.github.io/review/book/2018/2018-05-19-built-last/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/book/2018/2018-04-17-goot-to-great/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://byjay.github.io/review/book/2018/2018-05-19-built-last/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://byjay.github.io/review/book/2018/2018-05-20-the-remains/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://byjay.github.io/review/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
